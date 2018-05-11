@@ -15,6 +15,9 @@
 	<hr>
 	<p>This is a paragraph.</p>
 	<p>This is another paragraph.</p>
+	<hr>
+	<a href="https://www.w3schools.com">W3 School</a><br>
+	<a href="https://www.google.com">Google Page</a>
 
 </body>
 </html>
