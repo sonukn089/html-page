@@ -12,6 +12,9 @@
 	<h2>This is heading 2</h2>
 	<h3>This is heading 1</h3>
 	<h4>This is heading 1</h4>
+	<hr>
+	<p>This is a paragraph.</p>
+	<p>This is another paragraph.</p>
 
 </body>
 </html>
