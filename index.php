@@ -17,7 +17,9 @@
 	<p>This is another paragraph.</p>
 	<hr>
 	<a href="https://www.w3schools.com">W3 School</a><br>
-	<a href="https://www.google.com">Google Page</a>
+	<a href="https://www.google.com">Google Page</a><br>
+	<img src="sonu.jpg" height="200" width="300"><br>
+	
 
 </body>
 </html>
