@@ -17,7 +17,21 @@
 	<p>This is another paragraph.</p>
 	<hr>
 	<a href="https://www.w3schools.com">W3 School</a><br>
-	<a href="https://www.google.com">Google Page</a>
+	<a href="https://www.google.com">Google Page</a><br>
+	<img src="sonu.jpg" height="200" width="300"><br>
+	<button>Click Me</button><br>
+	<h2>An Unordered HTML List</h2>
+	<ul>
+		<li>Coffee</li>
+		<li>Tea</li>
+		<li>Milk</li>
+	</ul>
+	<h2>An Ordered HTML List</h2>
+	<ol>
+		<li>Coffee</li>
+		<li>Tea</li>
+		<li>Milk</li>
+	</ol>
 
 </body>
 </html>
