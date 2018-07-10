@@ -14,7 +14,7 @@
 
 	<p>Sample text is being cut and pasted again and again. This is a sample Blog post.  Sample text is being cut and <mark>pasted again</mark> and again. This is a sample Blog post.  Sample text is being cut and pasted again and again.</p>
 
-	<p>sample Blog post.  Sample text is being cut and pasted again and again. This is a sample Blog post. <mark><i>Sample text is being cut and pasted again</i></mark> and again. This is a sample Blog post. Sample text is being cut and pasted again and again. This is a sample Blog post.  Sample text is being cut and pasted again and again.</p>
+	<p>sample Blog post.  Sample text is being cut and pasted again and again. This is a sample Blog post. <b><i>Sample text is being cut and pasted again</i></b> and again. This is a sample Blog post. Sample text is being cut and pasted again and again. This is a sample Blog post.  Sample text is being cut and pasted again and again.</p>
 
 
 </body>
