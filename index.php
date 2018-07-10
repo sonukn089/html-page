@@ -18,7 +18,8 @@
 
 	<p>sample Blog post.  Sample text is being cut and pasted again and again. This is a sample Blog post.  <strike>Sample text is being cut and pasted again</strike> and again. This is a sample Blog post.  <b>This is del attribute <del>Sample text is being cut</del></b> and pasted again and again.</p>
 
-	<p>H<sub>2</sub>O</p>
+	<p>this is H<sub>2</sub>O</p>
+	<p>this is Na<sup>+</sup></p>
 
 </body>
 </html>
