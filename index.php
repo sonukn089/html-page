@@ -1,37 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Page Title</title>
+	<title>My Page</title>
 </head>
 <body>
 
-	<h1>My First Heading</h1>
-	<p>My First paragraph.</p>
-	<hr>
-	<h1>This is heading 1</h1>
-	<h2>This is heading 2</h2>
-	<h3>This is heading 1</h3>
-	<h4>This is heading 1</h4>
-	<hr>
-	<p>This is a paragraph.</p>
-	<p>This is another paragraph.</p>
-	<hr>
-	<a href="https://www.w3schools.com">W3 School</a><br>
-	<a href="https://www.google.com">Google Page</a><br>
-	<img src="sonu.jpg" height="200" width="300"><br>
-	<button>Click Me</button><br>
-	<h2>An Unordered HTML List</h2>
-	<ul>
-		<li>Coffee</li>
-		<li>Tea</li>
-		<li>Milk</li>
-	</ul>
-	<h2>An Ordered HTML List</h2>
-	<ol>
-		<li>Coffee</li>
-		<li>Tea</li>
-		<li>Milk</li>
-	</ol>
+	<h1>It's my First heading...</h1>
+	<h2>It's my Secong heading...</h2>
+	<h3>It's my Third heading...</h3>
+	<h4>It's my Fourth heading...</h4>
+
+	<p>Sample text is being <strong>cut and pasted again</strong> and again. This is a sample Blog post.  Sample text is being cut and pasted again and again. This is a sample Blog post.  Sample text is being cut and pasted again and again. This is a sample Blog post.  Sample text is being cut and pasted again and again. This is a sample Blog post.  Sample text is being cut and pasted again and again.</p>
+
+	<p>Sample text is being cut and pasted again and again. This is a sample Blog post.  Sample text is being cut and <mark>pasted again</mark> and again. This is a sample Blog post.  Sample text is being cut and pasted again and again.</p>
+
+	<p>sample Blog post.  Sample text is being cut and pasted again and again. This is a sample Blog post. <b><i>Sample text is being cut and pasted again</i></b> and again. This is a sample Blog post. Sample text is being cut and pasted again and again. This is a sample Blog post.  Sample text is being cut and pasted again and again.</p>
+
+	<p>sample Blog post.  Sample text is being cut and pasted again and again. This is a sample Blog post.  <strike>Sample text is being cut and pasted again</strike> and again. This is a sample Blog post.  <b>This is del attribute <del>Sample text is being cut</del></b> and pasted again and again.</p>
+
+	<p>this is H<sub>2</sub>O</p>
+	<p>this is Na<sup>+</sup></p>
 
 </body>
 </html>
